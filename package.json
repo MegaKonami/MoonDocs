@@ -1,0 +1,15 @@
+{
+  "name": "moon-docs",
+  "version": "1.0.0",
+  "description": "Declaration file for Moon Client JS",
+  "main": "joke.moon.ts",
+  "bundledDependencies": ["typescript"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moon",
+    "client"
+  ],
+  "author": "Mega_Konami"
+}

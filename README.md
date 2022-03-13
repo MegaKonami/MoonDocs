@@ -1,2 +1,1 @@
-# MoonDocs
-A TypeScript Declaration file for MoonClientJS.
+# HOW TO USE IN VScode!
